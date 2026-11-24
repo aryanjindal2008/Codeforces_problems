@@ -14,4 +14,4 @@ int main(){
     }
     cout << solved << "\n";
     return 0;
-}
+}//submitted
