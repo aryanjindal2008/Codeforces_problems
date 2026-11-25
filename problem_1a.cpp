@@ -9,4 +9,4 @@ int main() {
 
     cout << length_count * width_count << "\n";
     return 0;
-}
+}//submitted 
